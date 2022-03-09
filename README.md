@@ -1,0 +1,2 @@
+# NetaWikiNeteaseMusic
+基于php，适用MediaWiki的网易云网页音乐播放
